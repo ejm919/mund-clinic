@@ -13,6 +13,10 @@ vscode:
     - pivotal.vscode-spring-boot
     - vscjava.vscode-java-pack
 
+    - Pivotal.vscode-boot-dev-pack
+
+    - eamodio.gitlens
+
 jetbrains:
   intellij:  
     plugins:
