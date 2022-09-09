@@ -17,6 +17,8 @@ vscode:
 
     - eamodio.gitlens
 
+    - ms-azuretools.vscode-docker
+
 jetbrains:
   intellij:  
     plugins:
